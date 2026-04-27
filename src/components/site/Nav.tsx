@@ -73,12 +73,12 @@ export const Nav = () => {
 
         <div className="flex items-center gap-3">
           <a
-            href="tel:+919841709111"
+            href="tel:+919094569498"
             className="inline-flex items-center gap-2 text-sm font-semibold bg-primary text-primary-foreground px-4 py-2.5 rounded-sm hover:bg-primary-glow transition-colors duration-300 relative overflow-hidden group shadow-soft"
           >
             <span className="absolute inset-0 bg-accent scale-x-0 group-hover:scale-x-100 origin-left transition-transform duration-400" />
             <Phone className="h-4 w-4 relative z-10" />
-            <span className="hidden sm:inline relative z-10">+91 98417 09111</span>
+            <span className="hidden sm:inline relative z-10">+91 90945 69498</span>
             <span className="sm:hidden relative z-10">Call</span>
           </a>
 
